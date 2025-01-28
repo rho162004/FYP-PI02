@@ -20,3 +20,5 @@ TK_Video_YOLO.py starts to look at using YOLO (machine learning object recogniti
 **demo.py** - another YOLO  
 **depth opencv.py** - code to try and estimate depth of objects in frame of two stereo cameras  
 **screenshot.txt** - required for FINAL Yolo_Timer to run
+
+This repository is a public verison of the project. The original repository is private and unable to be accessed due to technical issues.
