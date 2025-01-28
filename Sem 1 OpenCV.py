@@ -56,8 +56,8 @@ def onMouseButton(event, x, y, flags, param): # For imgIn
 def send_to_telegram(message):
     global msg_sent
 
-    apiToken = '6490993907:AAEL-qoY44V-flvqRHP0TmfItzUBYhLvffI'
-    chatID = '4058750208'
+    apiToken = 
+    chatID = 
     apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
     
     if msg_sent == False:
